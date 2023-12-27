@@ -29,4 +29,6 @@ https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/fb7c53d7-6fda-4117-8ae8-
 
 Robot turns left using a stable gait (TurnLeft.py)
 
+https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/85e618f6-c6e9-46b7-9f4f-ec24853961c4
+
 
