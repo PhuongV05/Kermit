@@ -3,6 +3,10 @@
 
 Simulation folder contains code for simulation of various actions using PyBullet. Code is not complicated but also not clean. Somewhat legible in most cases:).
 
+MainSim.py incorporates all motions into a single file and allows user to control the model using a Bluetooth Controller (in this case an Xbox 1 controller).
+
+The model is Spider.urdf.
+
 Move each leg individually using sliders (MoveLegs.py)
 
 https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/9ea0aa39-d24a-455f-826d-ed903e8b6beb
