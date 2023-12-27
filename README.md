@@ -7,6 +7,10 @@ MainSim.py incorporates all motions into a single file and allows user to contro
 
 The model is Spider.urdf.
 
+Proposed physical model of robot:
+
+![Proposed Photo](https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/0519eed9-6b5a-4df2-ae5c-85f6b44cad3e)
+
 Move each leg individually using sliders (MoveLegs.py)
 
 https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/9ea0aa39-d24a-455f-826d-ed903e8b6beb
