@@ -21,7 +21,7 @@ https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/1d8a0b55-14e4-4dfa-89e6-
 
 Robot walks rather chaotically using trot gait where two diagonal legs are raised at a time (MoveWalk.py)
 
-https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/16818ec2-69fa-42bb-af7d-0367c906f62a
+https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/2ceca2cc-3f5f-40e0-9f53-cf7298ff5e7b
 
 A more controlled walk using a stable gait where one leg lifts at a time (MoveWalk2.py)
 
