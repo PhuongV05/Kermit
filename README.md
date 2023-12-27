@@ -21,18 +21,20 @@ https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/1d8a0b55-14e4-4dfa-89e6-
 
 Robot walks rather chaotically using trot gait where two diagonal legs are raised at a time (MoveWalk.py)
 
-https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/878ca04a-17ac-4aad-841a-fc5dc335b1dd
+https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/16818ec2-69fa-42bb-af7d-0367c906f62a
 
 A more controlled walk using a stable gait where one leg lifts at a time (MoveWalk2.py)
 
-https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/fa9d3cc3-66c2-4d62-8fdc-17a00f20fb07
+https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/1937dd5d-60fc-4c13-a37b-94bdbd0a037a
 
 Robot turns right using a stable gait (TurnRight.py)
 
-https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/fb7c53d7-6fda-4117-8ae8-c0ea0991c3e1
+https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/ce784c8f-dd7d-40d3-86d9-2e2b1341b814
 
 Robot turns left using a stable gait (TurnLeft.py)
 
-https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/85e618f6-c6e9-46b7-9f4f-ec24853961c4
+https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/99b72242-fb86-42fe-825d-7a775628568f
+
+
 
 
