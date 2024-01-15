@@ -11,7 +11,7 @@ Robot Working!!!
 
 Walking (Physical/Walk.py)
 
-https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/9c5ee6b4-5c21-4a55-8fb6-0c1f3e3dd47c
+https://github.com/Ctrl-A-Ctrl-C/Kermit/assets/59261928/4948ff76-36a9-4535-9560-901a9061d326
 
 Moving Up and Down(Physical/MoveUpDown.py)
 
